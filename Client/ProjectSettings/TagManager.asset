@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Building
+  - Ground
+  - Obstacle
+  - PlayerBullet
+  - RoomList
+  - RoomItem
+  - PlayerItem
+  - RoomManager
+  - EnemyBullet
+  - EnemyBoom
+  - EnemyMelee
+  - Shop
+  - Healpack
+  - MeleeUp
+  - HealthUp
+  - SpeedUp
+  - SpecialItem
+  - Consumable Item
+  - EnemyGroup1
+  - EnemyGroup2
+  - EnemyGroup3
+  - EnemyGroup4
+  - EnemyGroup5
+  - SpawnTrigger
+  - SpawnMonster
+  - BossBodyAttack
+  - ResuePerson
+  - GameManager
+  - PlayerStatusUI
+  - SupplyItem
+  - PlayerMelee
+  - Boss
+  - ResqueSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - PlayerBullet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
